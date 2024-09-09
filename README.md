@@ -1,6 +1,6 @@
 ## Hey, I'm Dixi
 # 💫 About Me:
-🔭 Undergraduate<br><br><br>🌱 I’m currently learning Computer Science
+🔭 Undergraduate<br><br>🌱 I’m currently learning Computer Science
 
 
 # 💻 Tech Stack:
