@@ -1,3 +1,3 @@
-## Hi there 👋
+## Hey, I'm Dixi
 
 
